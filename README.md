@@ -1,11 +1,17 @@
 # Sorrow Hill bugtracker
 
-## Template :
+## Template
 
-### Current behavior :
+#### Current behavior :
 
-### Expected behavior :
+#### Expected behavior :
 
-### Steps to reproduce :
+#### Steps to reproduce :
+  1. 
+  2. 
+  3. 
 
-### Tests to make :
+#### Tests to make :
+  1. 
+  2. 
+  3. 
